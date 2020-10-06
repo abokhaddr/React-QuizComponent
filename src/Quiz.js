@@ -1,4 +1,3 @@
-  -0,0 +1,31 @@
 import React, { Component } from 'react'
 import QuizQuestion from './QuizQuestion.js'
 import QuizEnd from './QuizEnd.js'
